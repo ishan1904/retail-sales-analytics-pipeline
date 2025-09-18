@@ -1,0 +1,12 @@
+# Virtual environment
+.venv/
+__pycache__/
+
+# OS files
+.DS_Store
+
+# DB and processed data
+data/processed/
+data/warehouse/
+data/raw/
+*.db
