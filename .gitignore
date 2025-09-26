@@ -10,3 +10,5 @@ data/processed/
 data/warehouse/
 data/raw/
 *.db
+
+.env
